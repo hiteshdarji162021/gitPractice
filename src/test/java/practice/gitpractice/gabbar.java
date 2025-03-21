@@ -4,5 +4,6 @@ public class gabbar {
 
     public static void main(String[] args) {
         System.out.println("Gabar");
+        System.out.println("Gabar");
     }
 }
